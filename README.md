@@ -50,18 +50,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
-### Dataset
-
-* [UFO Sightings Data](StarterCode/static/js/data.js)
-
-- - -
-
-## Rubric
-
-[Unit 14 Rubric - JavaScript Homework - JavaScript and DOM Manipulation](https://docs.google.com/document/d/1KWNS-xCwYBONjvlrIz4zyGkcUu0mP2kpMQh6qj0hKf8/edit?usp=sharing)
-
-- - -
-
 **Good luck!**
 
 - - -
